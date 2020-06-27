@@ -1,1 +1,1 @@
-<?php include 'editor.html';?>
+<?php include 'editor.php';?>
